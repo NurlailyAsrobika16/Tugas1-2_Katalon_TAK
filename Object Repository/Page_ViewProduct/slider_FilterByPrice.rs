@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>slider_FilterByPrice</name>
+   <tag></tag>
+   <elementGuidId>370f6917-3553-446b-b922-814640d141b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ui-slider-range.ui-corner-all.ui-widget-header</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='woocommerce_price_filter-2']/form/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>be6b5012-8400-46ce-964d-3d568d0032a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-slider-range ui-corner-all ui-widget-header</value>
+      <webElementGuid>e3e9dfbd-aa3c-4971-afd7-43535711e965</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;woocommerce_price_filter-2&quot;)/form[1]/div[@class=&quot;price_slider_wrapper&quot;]/div[@class=&quot;price_slider ui-slider ui-corner-all ui-slider-horizontal ui-widget ui-widget-content&quot;]/div[@class=&quot;ui-slider-range ui-corner-all ui-widget-header&quot;]</value>
+      <webElementGuid>7864ceef-b208-4d6d-b772-9be8b7d5f58b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='woocommerce_price_filter-2']/form/div/div/div</value>
+      <webElementGuid>c55d1556-b6e5-456d-acb1-8fed1d9c4aaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div</value>
+      <webElementGuid>d3ebf37d-6b5f-4109-89f0-84fc8a7482cd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

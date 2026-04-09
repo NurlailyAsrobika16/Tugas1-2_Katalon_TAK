@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Town  City</name>
+   <tag></tag>
+   <elementGuidId>0eef5da8-6ab5-48fd-b0f6-404d4e523225</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='billing_city_field']/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#billing_city_field > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>8d8366d9-299a-4490-bd22-abbfbd77395e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>billing_city</value>
+      <webElementGuid>1c4200f5-943e-4236-92c6-49362895dbb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Town / City *</value>
+      <webElementGuid>884edd7c-14c7-4d41-b99f-c22c5141d6b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;billing_city_field&quot;)/label[1]</value>
+      <webElementGuid>d7373f78-ca00-4e23-9ada-f435b9d11b18</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//p[@id='billing_city_field']/label</value>
+      <webElementGuid>ae8151a4-26a2-4294-acbe-a0636e461063</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[8]/following::label[1]</value>
+      <webElementGuid>fefc08c5-6b79-407e-9ee7-dcb681ccb46e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Town / City']/parent::*</value>
+      <webElementGuid>19d7e969-e916-493c-b7c7-f3c01314e6bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[9]/label</value>
+      <webElementGuid>de569039-07fa-4741-b5e6-5d9f3f86c4a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Town / City *' or . = 'Town / City *')]</value>
+      <webElementGuid>6db6987e-e5f6-4bd9-9f86-2586989e74d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

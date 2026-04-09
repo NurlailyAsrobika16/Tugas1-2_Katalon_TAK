@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>logo_ATheader</name>
+   <tag></tag>
+   <elementGuidId>795ae9d9-e044-4587-b55e-c165458d919b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Automation Practice Site&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='site-logo']/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>8b67ecca-5272-47f1-a2f5-0a58c3406236</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://practice.automationtesting.in/wp-content/uploads/2017/01/color-logo-original.png</value>
+      <webElementGuid>6869405f-1559-4469-805e-836581cacfa8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Automation Practice Site</value>
+      <webElementGuid>aff3d5ce-7a54-4ee9-8aa4-4789eb0f3156</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Automation Practice Site</value>
+      <webElementGuid>6290b2fc-2382-496f-a9db-20b8f344a7c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-logo&quot;)/a[1]/img[1]</value>
+      <webElementGuid>5d931edb-8542-4abf-a990-e2870f9c5f3c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='site-logo']/a/img</value>
+      <webElementGuid>0dc98094-30a0-4dec-9bc9-019300eeccd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Automation Practice Site']</value>
+      <webElementGuid>5eb1a22e-b15e-47d5-831d-26a01d9811b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>0a31f306-b7e1-4005-b20a-34eab9845711</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://practice.automationtesting.in/wp-content/uploads/2017/01/color-logo-original.png' and @alt = 'Automation Practice Site' and @title = 'Automation Practice Site']</value>
+      <webElementGuid>8d6301e9-21cd-4886-86c5-43b200e8ba5c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

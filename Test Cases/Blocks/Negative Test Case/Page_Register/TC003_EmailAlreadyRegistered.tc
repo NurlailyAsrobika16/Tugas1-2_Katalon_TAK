@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC003_EmailAlreadyRegistered</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7619e997-7edf-4b30-af5e-37fa7522b6f7</testCaseGuid>
+</TestCaseEntity>

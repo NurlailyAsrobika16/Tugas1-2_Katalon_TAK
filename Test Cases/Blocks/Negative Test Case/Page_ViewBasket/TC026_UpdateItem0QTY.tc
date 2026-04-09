@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC026_UpdateItem0QTY</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2ba14ea0-e842-43b1-9972-14384c5d47c4</testCaseGuid>
+</TestCaseEntity>

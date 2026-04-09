@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SearchResult_ThinkingInHTML</name>
+   <tag></tag>
+   <elementGuidId>f6a88cab-50e4-4116-b6f3-d5a0fb77866f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Thinking in HTML&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-163']/div/div/h2/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>58a71a0c-694c-40f1-b8fd-b5c64fc9b74e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://practice.automationtesting.in/product/thinking-in-html/</value>
+      <webElementGuid>174406f9-2d66-4381-9d47-1c8d4f60616a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Thinking in HTML</value>
+      <webElementGuid>0504a3e7-d0ef-4d45-9c6c-f2f2a8fc86db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thinking in HTML</value>
+      <webElementGuid>8b60c539-4f70-49ee-ae35-23ff6dbf9614</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-163&quot;)/div[@class=&quot;post-content&quot;]/div[@class=&quot;post-content-inner&quot;]/h2[@class=&quot;post-title entry-title&quot;]/a[1]</value>
+      <webElementGuid>27695d51-1257-4d09-85cd-3f36a8e01147</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-163']/div/div/h2/a</value>
+      <webElementGuid>72e7a861-bf7a-4f44-86df-bd8e098846f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Thinking in HTML')]</value>
+      <webElementGuid>9c4bb144-96ed-4338-a658-94117f7fdb3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='admin'])[2]/following::a[3]</value>
+      <webElementGuid>20433b5c-79e3-48c6-886c-16f07985627d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HTML5 Forms'])[1]/following::a[4]</value>
+      <webElementGuid>677f0da2-4267-42de-9555-b891f2cb0a0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='admin'])[3]/preceding::a[1]</value>
+      <webElementGuid>c13dae66-dabf-42d6-8a37-09c595394cc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ver más'])[1]/preceding::a[3]</value>
+      <webElementGuid>90b8a754-eee3-435f-a544-5b66ed68daab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Thinking in HTML']/parent::*</value>
+      <webElementGuid>6cd87329-0b06-4005-a557-1b50b3f5eba8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://practice.automationtesting.in/product/thinking-in-html/')])[2]</value>
+      <webElementGuid>59003589-9770-4234-8fbe-c683693f421f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article[3]/div/div/h2/a</value>
+      <webElementGuid>5b6cb4c4-b345-4938-8dd5-3fdcf0f48e65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://practice.automationtesting.in/product/thinking-in-html/' and @title = 'Thinking in HTML' and (text() = 'Thinking in HTML' or . = 'Thinking in HTML')]</value>
+      <webElementGuid>c6d02d12-a8a7-452a-a6a2-3259ee399965</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_AddItem_MultipleTimes_Success</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1972a55c-9ea1-44a6-8368-b36fead51133</testCaseGuid>
+</TestCaseEntity>

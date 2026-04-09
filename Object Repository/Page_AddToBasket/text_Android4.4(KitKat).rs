@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_Android4.4(KitKat)</name>
+   <tag></tag>
+   <elementGuidId>520b8516-b333-4b09-9b20-dd110bcc4edd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-169']/div[2]/div[2]/div/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.column > p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>b62cf45f-321b-4f23-9b4f-a83dd3a5c1e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Android 4.4 (KitKat®) is the latest version of the world’s favorite  operating system for  mobile phones and tablets.Android OS</value>
+      <webElementGuid>bc1c3f68-a6ca-4a24-8e7e-e9f27b80d4ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-169&quot;)/div[@class=&quot;summary entry-summary&quot;]/div[2]/div[@class=&quot;page&quot;]/div[@class=&quot;layoutArea&quot;]/div[@class=&quot;column&quot;]/p[1]</value>
+      <webElementGuid>ae34abcc-c08d-41af-b099-a4568d423b8f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-169']/div[2]/div[2]/div/div/div/p</value>
+      <webElementGuid>ff152aee-be72-449e-bb3e-254a506f53bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹'])[2]/following::p[1]</value>
+      <webElementGuid>a8a6fa55-1bdb-4c49-83ef-a12df715f3cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹'])[1]/following::p[1]</value>
+      <webElementGuid>e64912ef-77c2-4963-abf4-2e8c278eeb35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='(KitKat®) is the latest version of the world’s favorite']/parent::*</value>
+      <webElementGuid>3184f5c2-1b95-4ff2-9a29-32b39a108028</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/p</value>
+      <webElementGuid>81ddbcb2-7c5f-42b6-ad2c-436c3d1efffc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = ' Android 4.4 (KitKat®) is the latest version of the world’s favorite  operating system for  mobile phones and tablets.Android OS' or . = ' Android 4.4 (KitKat®) is the latest version of the world’s favorite  operating system for  mobile phones and tablets.Android OS')]</value>
+      <webElementGuid>a2366885-b2be-4315-944c-6b284f149624</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SearchResult_SeleniumRuby</name>
+   <tag></tag>
+   <elementGuidId>a7ceab00-008c-4195-bb8b-1cd6ddcc431b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Selenium Ruby&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-160']/div/div/h2/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>00e7d250-c60b-488b-b60d-1b319dfab938</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://practice.automationtesting.in/product/selenium-ruby/</value>
+      <webElementGuid>990eed51-0cad-4d50-b64a-c4975ef7784b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Selenium Ruby</value>
+      <webElementGuid>424792f7-0893-4e21-ae89-962d5308f63e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Selenium Ruby</value>
+      <webElementGuid>9f2ada7b-9fb8-4d1d-95f4-7b2f3bf3a99b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-160&quot;)/div[@class=&quot;post-content&quot;]/div[@class=&quot;post-content-inner&quot;]/h2[@class=&quot;post-title entry-title&quot;]/a[1]</value>
+      <webElementGuid>ac861d17-6000-4cc5-9e64-9a71f5351cc9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-160']/div/div/h2/a</value>
+      <webElementGuid>b9cdac3b-05e2-4de2-b8a1-26093fd00f62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Selenium Ruby')]</value>
+      <webElementGuid>765567c0-cc4c-4178-a354-0780ab2fd379</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='selenium'])[1]/following::a[2]</value>
+      <webElementGuid>41cf221f-703c-46fc-b9d1-75f10402ef0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='admin'])[1]/preceding::a[1]</value>
+      <webElementGuid>a60c8b15-22d8-405f-90c1-e762315ec72c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Refine By >'])[1]/preceding::a[3]</value>
+      <webElementGuid>c5b228e5-48fe-4d57-aab2-35bd8c833cfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Selenium Ruby']/parent::*</value>
+      <webElementGuid>20180071-4b7c-46dc-b462-be41c302aa0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://practice.automationtesting.in/product/selenium-ruby/')])[2]</value>
+      <webElementGuid>35fb82ab-d02c-4b70-a481-75ac85d8c4a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2/a</value>
+      <webElementGuid>40e8a3cc-9eb6-4cc3-8194-059990aafd01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://practice.automationtesting.in/product/selenium-ruby/' and @title = 'Selenium Ruby' and (text() = 'Selenium Ruby' or . = 'Selenium Ruby')]</value>
+      <webElementGuid>fdbdf503-7878-4326-9198-8585e3b1e209</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

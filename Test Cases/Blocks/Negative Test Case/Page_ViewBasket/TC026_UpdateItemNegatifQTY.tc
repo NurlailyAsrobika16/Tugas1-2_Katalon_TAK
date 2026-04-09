@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC026_UpdateItemNegatifQTY</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>949f87ac-1b09-4b83-9d6f-1433a4e8e346</testCaseGuid>
+</TestCaseEntity>

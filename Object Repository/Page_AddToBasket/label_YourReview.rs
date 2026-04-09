@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_YourReview</name>
+   <tag></tag>
+   <elementGuidId>a9bd1acc-044e-4986-ae1b-aac4443ef440</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='commentform']/p[3]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.comment-form-comment > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>c84a73c0-ebe2-461e-a522-206b6942cb22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>comment</value>
+      <webElementGuid>3677d7da-1c3b-4624-be31-724b1de98754</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Your Review *</value>
+      <webElementGuid>6ef1158a-1ba6-4fd4-849d-5d2fb89bbd44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;commentform&quot;)/p[@class=&quot;comment-form-comment&quot;]/label[1]</value>
+      <webElementGuid>8c12df58-9138-4735-ae47-c9125ff16530</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='commentform']/p[3]/label</value>
+      <webElementGuid>d3cdf7da-d1dc-40f2-8c3c-7f2cddfdb54d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Rating'])[1]/following::label[1]</value>
+      <webElementGuid>f998be2b-0eb4-4ef8-98ea-36b319d763cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::label[2]</value>
+      <webElementGuid>21dae516-c4e5-4268-a9e8-6d1fe4469526</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Your Review']/parent::*</value>
+      <webElementGuid>c7d90516-464b-4066-bdcc-9c1231cbbf3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[3]/label</value>
+      <webElementGuid>74623ce1-b966-428f-9da2-a8e629c891ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Your Review *' or . = 'Your Review *')]</value>
+      <webElementGuid>a3a7423f-6c1b-491b-9b2d-a79ac05d1add</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

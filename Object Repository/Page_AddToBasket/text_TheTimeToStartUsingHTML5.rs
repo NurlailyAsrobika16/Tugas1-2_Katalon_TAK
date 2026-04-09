@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_TheTimeToStartUsingHTML5</name>
+   <tag></tag>
+   <elementGuidId>aed80d62-a487-4227-91b2-e3d77312263c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-182']/div[2]/div[2]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(2) > p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>4c8c6b55-901b-40ba-80ff-2dc784796f61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The time to start using HTML5 is now. HTML5 provides a complete application development framework for writing full featured applications that run in the  web browser.Development Tools</value>
+      <webElementGuid>2ad5d2a1-74be-4bfa-8fbc-99eb3cada895</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-182&quot;)/div[@class=&quot;summary entry-summary&quot;]/div[2]/p[1]</value>
+      <webElementGuid>76761c70-87dd-45ae-8ea9-edf47e68dc3c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-182']/div[2]/div[2]/p</value>
+      <webElementGuid>7ce5d0d0-0f71-45b8-8db8-6e20351b2b8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹'])[1]/following::p[1]</value>
+      <webElementGuid>95e4a4c5-12e9-463e-8ad5-ba49ac7f1bfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HTML5 WebApp Develpment'])[1]/following::p[2]</value>
+      <webElementGuid>1c23727c-5828-4cfc-81d3-c9ebf91ce6cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The time to start using HTML5 is now. HTML5 provides a complete application development framework for writing full featured applications that run in the']/parent::*</value>
+      <webElementGuid>05761817-dfcf-45cc-aff2-dd9d95fe813c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p</value>
+      <webElementGuid>b741f70c-a7f1-43d7-99a2-bd604ba231c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'The time to start using HTML5 is now. HTML5 provides a complete application development framework for writing full featured applications that run in the  web browser.Development Tools' or . = 'The time to start using HTML5 is now. HTML5 provides a complete application development framework for writing full featured applications that run in the  web browser.Development Tools')]</value>
+      <webElementGuid>b74e2e3c-cec8-4e49-947c-25ff8a9162f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

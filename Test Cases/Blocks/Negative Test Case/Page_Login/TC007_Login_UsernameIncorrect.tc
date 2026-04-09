@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC007_Login_UsernameIncorrect</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>763f7710-a310-4ace-bf6d-9c185abbb827</testCaseGuid>
+</TestCaseEntity>

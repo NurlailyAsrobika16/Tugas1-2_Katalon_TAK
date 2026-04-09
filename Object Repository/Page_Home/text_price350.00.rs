@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_price350.00</name>
+   <tag></tag>
+   <elementGuidId>38967764-105e-4c38-8372-75b9216ece40</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.post-165.product.type-product.status-publish.has-post-thumbnail.product_cat-javascript.product_tag-javascript.product_tag-mastering.has-post-title.no-post-date.has-post-category.has-post-tag.has-post-comment.has-post-author.first.instock.downloadable.taxable.shipping-taxable.purchasable.product-type-simple > a.woocommerce-LoopProduct-link > span.price > span.woocommerce-Price-amount.amount</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='text-22-sub_row_1-0-2-2-0']/div/ul/li/a/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f0e40002-5740-4d0a-a1ad-4cbb74933463</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>woocommerce-Price-amount amount</value>
+      <webElementGuid>3be2899d-302a-4221-866f-406abdc84dea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>₹350.00</value>
+      <webElementGuid>9167152f-d268-4389-a35a-454023294edc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;text-22-sub_row_1-0-2-2-0&quot;)/div[@class=&quot;woocommerce&quot;]/ul[@class=&quot;products&quot;]/li[@class=&quot;post-165 product type-product status-publish has-post-thumbnail product_cat-javascript product_tag-javascript product_tag-mastering has-post-title no-post-date has-post-category has-post-tag has-post-comment has-post-author first instock downloadable taxable shipping-taxable purchasable product-type-simple&quot;]/a[@class=&quot;woocommerce-LoopProduct-link&quot;]/span[@class=&quot;price&quot;]/span[@class=&quot;woocommerce-Price-amount amount&quot;]</value>
+      <webElementGuid>a46ce3eb-6054-4947-8f7f-4148bc4e0fc9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='text-22-sub_row_1-0-2-2-0']/div/ul/li/a/span/span</value>
+      <webElementGuid>8c3f657f-c8be-4606-bcc8-3b103e28dd6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mastering JavaScript'])[1]/following::span[2]</value>
+      <webElementGuid>469738dc-df5c-4cbf-92cb-588719c7644f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to basket'])[2]/following::span[2]</value>
+      <webElementGuid>c81d2fde-70fb-4d42-81e9-f602bf2e820a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to basket'])[3]/preceding::span[2]</value>
+      <webElementGuid>3b1ec9e5-f489-4ce2-9c22-0c75b41c0d6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='350.00']/parent::*</value>
+      <webElementGuid>4e80c582-5919-48be-8cb4-20f4326dd49c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/ul/li/a/span/span</value>
+      <webElementGuid>8787ccd8-a919-4e47-ad14-8c2439759d65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '₹350.00' or . = '₹350.00')]</value>
+      <webElementGuid>1e67243a-043e-423d-b3f6-44fb1ba019db</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

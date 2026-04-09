@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_FunctionalProgrammingDescription</name>
+   <tag></tag>
+   <elementGuidId>0c00aac6-fd50-49d1-9fbb-9159d2ad960e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tab-description']/div/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#tab-description > div.page > div.layoutArea > div.column > p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>50018644-8624-4b18-885f-5b51c805cec5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Functional programming is a style that emphasizes and enables the writing of smarter code, which minimizes complexity and increases modularity. It’s a way of writing cleaner code through clever ways of mutating, combining, and using functions. JavaScript provides an excellent medium for this approach. JavaScript, the Internet’s  scripting language, is actually a functional language at heart. By learning how to expose its true identity as a functional language, we can implement web applications that are powerful, easier to maintain, and more reliable.Programming</value>
+      <webElementGuid>7684a04f-9233-45ef-8a56-9170a8fe276a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab-description&quot;)/div[@class=&quot;page&quot;]/div[@class=&quot;layoutArea&quot;]/div[@class=&quot;column&quot;]/p[1]</value>
+      <webElementGuid>ea064be2-8d0e-48c7-855e-56fb187140a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tab-description']/div/div/div/p</value>
+      <webElementGuid>905bae54-d7ba-4ae3-9cb5-54c8cab747ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product Description'])[1]/following::p[1]</value>
+      <webElementGuid>d3fb9246-d1b1-43cd-8d5c-cd14c90a2fd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Web Browsers'])[1]/following::p[1]</value>
+      <webElementGuid>420855f2-df16-43ba-9e30-b59d8f7e10a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Functional programming is a style that emphasizes and enables the writing of smarter code, which minimizes complexity and increases modularity. It’s a way of writing cleaner code through clever ways of mutating, combining, and using functions. JavaScript provides an excellent medium for this approach. JavaScript, the Internet’s']/parent::*</value>
+      <webElementGuid>f4553aca-0f92-48c6-afbc-94779e0e8d1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/div/p</value>
+      <webElementGuid>ba3b2c08-86e4-4bbd-b6cb-a7f05160cb7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Functional programming is a style that emphasizes and enables the writing of smarter code, which minimizes complexity and increases modularity. It’s a way of writing cleaner code through clever ways of mutating, combining, and using functions. JavaScript provides an excellent medium for this approach. JavaScript, the Internet’s  scripting language, is actually a functional language at heart. By learning how to expose its true identity as a functional language, we can implement web applications that are powerful, easier to maintain, and more reliable.Programming' or . = 'Functional programming is a style that emphasizes and enables the writing of smarter code, which minimizes complexity and increases modularity. It’s a way of writing cleaner code through clever ways of mutating, combining, and using functions. JavaScript provides an excellent medium for this approach. JavaScript, the Internet’s  scripting language, is actually a functional language at heart. By learning how to expose its true identity as a functional language, we can implement web applications that are powerful, easier to maintain, and more reliable.Programming')]</value>
+      <webElementGuid>352245a6-2be2-4fab-a372-5e79f747f3ae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

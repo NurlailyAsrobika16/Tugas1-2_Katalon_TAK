@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_FilterByPrice</name>
+   <tag></tag>
+   <elementGuidId>a49cf3d8-9c56-4ef4-92d2-3e124229bbdf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#woocommerce_price_filter-2 > h4.widgettitle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='woocommerce_price_filter-2']/h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>6ccbe697-fc8e-4750-9ec1-f621695bf150</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>widgettitle</value>
+      <webElementGuid>acfc4611-1ebf-4674-93cf-bb1e01ccee0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Filter by price</value>
+      <webElementGuid>dd374291-2458-4f33-96cc-9307da08103e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;woocommerce_price_filter-2&quot;)/h4[@class=&quot;widgettitle&quot;]</value>
+      <webElementGuid>0e0785c0-a0dc-40d9-8da5-7db8e1afefe1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='woocommerce_price_filter-2']/h4</value>
+      <webElementGuid>473ead2e-4b63-4ff0-8e8b-cb6f6d06f1e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Refine By >'])[1]/following::h4[1]</value>
+      <webElementGuid>912a3062-72eb-4d29-8f98-475f2428e70c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to basket'])[8]/following::h4[2]</value>
+      <webElementGuid>fa82ab79-f785-440b-b14c-f32a3b36bf0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter'])[1]/preceding::h4[1]</value>
+      <webElementGuid>ae85e0d8-3960-4442-a66d-cb945f7ce5ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Filter by price']/parent::*</value>
+      <webElementGuid>01d5bd71-7c55-4993-8089-73a9ffe45470</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/h4</value>
+      <webElementGuid>6b41d204-20cd-4c85-a4d6-13075bc57990</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'Filter by price' or . = 'Filter by price')]</value>
+      <webElementGuid>8d2339f3-1836-4208-bf3d-80b7116191c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

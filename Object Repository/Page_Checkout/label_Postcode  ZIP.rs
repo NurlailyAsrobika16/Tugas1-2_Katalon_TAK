@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Postcode  ZIP</name>
+   <tag></tag>
+   <elementGuidId>29457a25-f635-4685-b70c-8d4e7e1129c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='billing_postcode_field']/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#billing_postcode_field > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>0a3062d8-b53f-4a17-bde5-a5efb4cdbaa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>billing_postcode</value>
+      <webElementGuid>bf34b51b-59b1-4503-91fd-d45f3fc18f72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Postcode / ZIP *</value>
+      <webElementGuid>2d9e7a9f-1fd4-4e1a-bd9c-b6f1141e9d2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;billing_postcode_field&quot;)/label[1]</value>
+      <webElementGuid>a4157a59-5a6a-4126-8464-ce264f7279b1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//p[@id='billing_postcode_field']/label</value>
+      <webElementGuid>ca6dabd0-81b2-4194-a808-abe3ca1d641c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[12]/following::label[1]</value>
+      <webElementGuid>57fa5476-b226-405e-b750-4f830e3d162d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create an account?'])[1]/preceding::label[1]</value>
+      <webElementGuid>62721568-259a-435c-a5ab-9ebecff0d9a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Postcode / ZIP']/parent::*</value>
+      <webElementGuid>65007ed4-16e8-4b2a-a990-954f4629d6ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[11]/label</value>
+      <webElementGuid>2f7f2f0d-2d13-494a-8daa-60cec30a9143</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Postcode / ZIP *' or . = 'Postcode / ZIP *')]</value>
+      <webElementGuid>dd375e5b-6797-4829-bb35-4841955ffeaf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_ErrorThepasswordIncorrect</name>
+   <tag></tag>
+   <elementGuidId>e6242a19-c55a-491c-a81b-58260eae0b8b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ul.woocommerce-error > li</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-36']/div/div/ul/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>8c6ee91a-0a69-4c7b-9e33-3a4aba5b7102</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Error: The password you entered for the username asrobika01@gmail.com is incorrect. Lost your password?</value>
+      <webElementGuid>7120ef55-0318-44b0-8f6c-c5f236950898</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-36&quot;)/div[@class=&quot;page-content entry-content&quot;]/div[@class=&quot;woocommerce&quot;]/ul[@class=&quot;woocommerce-error&quot;]/li[1]</value>
+      <webElementGuid>15cf340a-1931-43fc-9799-fe5a61881ffc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-36']/div/div/ul/li</value>
+      <webElementGuid>6257b27b-1b2f-43b0-9ad0-cd12025229c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹0.00'])[1]/following::li[1]</value>
+      <webElementGuid>e8c3b6e5-806e-4304-94bb-19a7b7275562</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Demo Site'])[1]/following::li[2]</value>
+      <webElementGuid>cacd9f2a-a0fa-4840-b54c-18afa8ad6c84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The password you entered for the username']/parent::*</value>
+      <webElementGuid>d3be53c2-64af-4832-88d9-a5d39899fe8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li</value>
+      <webElementGuid>20df6793-bb28-4996-a04d-d21c519cfb03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Error: The password you entered for the username asrobika01@gmail.com is incorrect. Lost your password?' or . = 'Error: The password you entered for the username asrobika01@gmail.com is incorrect. Lost your password?')]</value>
+      <webElementGuid>38713492-4a1b-4089-82fd-4adf3a0dcb48</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_ErrorTheUsernameIsNotRegistered</name>
+   <tag></tag>
+   <elementGuidId>8adba494-647d-4284-bcba-191e54bb7c5c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ul.woocommerce-error > li</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-36']/div/div/ul/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>6b2c94e1-a302-4242-8510-e61338be639b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Error: The username asrobika00 is not registered on this site. If you are unsure of your username, try your email address instead.</value>
+      <webElementGuid>5d789072-4452-4b13-ba1d-3b9e0374421e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-36&quot;)/div[@class=&quot;page-content entry-content&quot;]/div[@class=&quot;woocommerce&quot;]/ul[@class=&quot;woocommerce-error&quot;]/li[1]</value>
+      <webElementGuid>ce5847ba-5c6f-4e11-bcb2-4ded6ef6a9dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-36']/div/div/ul/li</value>
+      <webElementGuid>7e027685-a2c0-41ab-9aa5-c7c808a0209e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹0.00'])[1]/following::li[1]</value>
+      <webElementGuid>9b16c1a4-d83b-492b-8d54-5c1fa6338668</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Demo Site'])[1]/following::li[2]</value>
+      <webElementGuid>8326d448-4391-4ef7-a0f3-102540f66241</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The username']/parent::*</value>
+      <webElementGuid>10430c49-9a94-432a-8921-1ff93f39f5df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li</value>
+      <webElementGuid>1068b9a4-2e5f-4f4b-9d27-e5bf0bba9a01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Error: The username asrobika00 is not registered on this site. If you are unsure of your username, try your email address instead.' or . = 'Error: The username asrobika00 is not registered on this site. If you are unsure of your username, try your email address instead.')]</value>
+      <webElementGuid>b900e330-5ec6-4978-a17a-c9952c4de7cd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

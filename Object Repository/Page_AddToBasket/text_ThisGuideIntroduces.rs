@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_ThisGuideIntroduces</name>
+   <tag></tag>
+   <elementGuidId>942a28a3-ead2-4d7f-b040-5608ed3c25c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-169']/div[2]/div[2]/div/div/div/p[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>0c417a8e-cd71-4235-bd38-342cc46ef812</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>This guide introduces the Android 4.4 software available on Nex- us and Google Play edition mobile devices. It doesn’t describe hardware details such as SIM card instructions, battery informa- tion, specs, and so on.</value>
+      <webElementGuid>5ff5724c-8734-4a81-bd84-4255a0f5159c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-169&quot;)/div[@class=&quot;summary entry-summary&quot;]/div[2]/div[@class=&quot;page&quot;]/div[@class=&quot;layoutArea&quot;]/div[@class=&quot;column&quot;]/p[2]</value>
+      <webElementGuid>22296ea7-4ab3-4405-b338-9ed6d7a851b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-169']/div[2]/div[2]/div/div/div/p[2]</value>
+      <webElementGuid>f9151810-1956-4cca-9507-e90ff2e09e02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Android OS'])[1]/following::p[1]</value>
+      <webElementGuid>4035cd5d-64f9-4a55-9924-f028e517c521</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='mobile phones'])[1]/following::p[1]</value>
+      <webElementGuid>71210a05-8f07-4f4f-bcdd-98bf578dbdcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to basket'])[1]/preceding::p[1]</value>
+      <webElementGuid>788d38b6-d8a6-48a9-bc58-5e77d6f3f898</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='This guide introduces the Android 4.4 software available on Nex- us and Google Play edition mobile devices. It doesn’t describe hardware details such as SIM card instructions, battery informa- tion, specs, and so on.']/parent::*</value>
+      <webElementGuid>e06ca22f-4888-43e1-be57-923e88ccbdc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]</value>
+      <webElementGuid>dc65f22c-def7-423f-92cc-4b625e789675</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'This guide introduces the Android 4.4 software available on Nex- us and Google Play edition mobile devices. It doesn’t describe hardware details such as SIM card instructions, battery informa- tion, specs, and so on.' or . = 'This guide introduces the Android 4.4 software available on Nex- us and Google Play edition mobile devices. It doesn’t describe hardware details such as SIM card instructions, battery informa- tion, specs, and so on.')]</value>
+      <webElementGuid>2a8cb597-36b9-44fb-83f3-24e99b395e31</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

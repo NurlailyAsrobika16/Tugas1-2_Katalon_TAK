@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>logo_TwitterFooter</name>
+   <tag></tag>
+   <elementGuidId>673419f4-62f7-45d8-adfb-bb0f21aa29f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-twitter</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='themify-social-links-2']/ul/li/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>d47060bb-4bc8-4455-99a5-39ed28744ab1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-twitter</value>
+      <webElementGuid>ee4e3bb1-afc7-423c-9e56-c28a0bdb3e69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;themify-social-links-2&quot;)/ul[@class=&quot;social-links horizontal&quot;]/li[@class=&quot;social-link-item twitter font-icon icon-medium&quot;]/a[1]/i[@class=&quot;fa fa-twitter&quot;]</value>
+      <webElementGuid>e6f6288a-b848-4e60-8445-fff4d8196d35</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='themify-social-links-2']/ul/li/a/i</value>
+      <webElementGuid>fc0fc72b-af17-4552-a2fd-fc7fe1073aee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li/a/i</value>
+      <webElementGuid>a658ee03-7e7c-476d-bc4e-58586aceaf58</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

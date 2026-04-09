@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC032_CheckoutWithCODMethod_Success</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>864e579f-2811-4b27-8f00-00c4b4813efa</testCaseGuid>
+</TestCaseEntity>

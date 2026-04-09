@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC030_CheckoutWithCompleteValidBilling_success</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2396443c-326f-4eb6-bc73-688315aff88e</testCaseGuid>
+</TestCaseEntity>

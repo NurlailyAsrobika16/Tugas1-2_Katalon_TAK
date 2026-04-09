@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_JavaScriptIsCurrentlyTheMost</name>
+   <tag></tag>
+   <elementGuidId>05e8ce78-3dee-401b-a7b9-8deb40133042</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-180']/div[2]/div[2]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(2) > p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>2a86939f-8d35-4cbf-9cbd-1aa117ed9a8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>JavaScript is currently the most popular  programming language. It is known as “the Internet language” due to the fact that Internet browsers understand JavaScript natively, without installing any plugins.Programming</value>
+      <webElementGuid>a99e481e-9a8a-4ee3-a14d-91c3c6f7be92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-180&quot;)/div[@class=&quot;summary entry-summary&quot;]/div[2]/p[1]</value>
+      <webElementGuid>2304c6c4-c39c-44d1-a789-b28d5488d56e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-180']/div[2]/div[2]/p</value>
+      <webElementGuid>047e939c-d098-4e91-8335-20cc85c63525</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹'])[1]/following::p[1]</value>
+      <webElementGuid>cf302793-adc4-4548-9f84-b889ff703fb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JS Data Structures and Algorithm'])[1]/following::p[2]</value>
+      <webElementGuid>1fa6993d-4b1b-4437-9f95-69ab29a7e703</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='JavaScript is currently the most popular']/parent::*</value>
+      <webElementGuid>1bf655c5-0bc5-43f3-870a-2e220cdf0fe2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p</value>
+      <webElementGuid>1228d744-7787-4797-8bda-3cc4662afee1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'JavaScript is currently the most popular  programming language. It is known as “the Internet language” due to the fact that Internet browsers understand JavaScript natively, without installing any plugins.Programming' or . = 'JavaScript is currently the most popular  programming language. It is known as “the Internet language” due to the fact that Internet browsers understand JavaScript natively, without installing any plugins.Programming')]</value>
+      <webElementGuid>3e35bd8d-973d-442c-a2a5-7a50d9d31023</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

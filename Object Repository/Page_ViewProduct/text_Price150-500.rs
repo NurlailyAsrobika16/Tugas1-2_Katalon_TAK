@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_Price150-500</name>
+   <tag></tag>
+   <elementGuidId>ed10b940-c4a0-495a-8edd-c4d7daf4cf3e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.price_label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='woocommerce_price_filter-2']/form/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4ab77f9a-e76a-451f-a076-77c7d15f0625</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>price_label</value>
+      <webElementGuid>edc1345a-a8c0-47a9-b396-471f62401e58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+						Price: ₹150 — ₹500
+					</value>
+      <webElementGuid>36a93af3-97be-4668-819d-4501e8b73509</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;woocommerce_price_filter-2&quot;)/form[1]/div[@class=&quot;price_slider_wrapper&quot;]/div[@class=&quot;price_slider_amount&quot;]/div[@class=&quot;price_label&quot;]</value>
+      <webElementGuid>6d4d59d2-e209-4c5f-b1a4-448a79fafb3c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='woocommerce_price_filter-2']/form/div/div[2]/div</value>
+      <webElementGuid>e6861be5-ae58-4898-8d55-453aad1b29d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter'])[1]/following::div[1]</value>
+      <webElementGuid>4d69a15c-a320-4b87-9994-875273c89904</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter by price'])[1]/following::div[5]</value>
+      <webElementGuid>b68b6403-1f1c-48ab-90bd-48e73a33af4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Price:']/parent::*</value>
+      <webElementGuid>15fda7b2-faa2-4674-8873-2d738e2b6a95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[2]/div</value>
+      <webElementGuid>877de614-1432-40a4-b508-3bac3e0b447f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+						Price: ₹150 — ₹500
+					' or . = '
+						Price: ₹150 — ₹500
+					')]</value>
+      <webElementGuid>861a481b-17bf-466f-9739-d5dd435f88a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

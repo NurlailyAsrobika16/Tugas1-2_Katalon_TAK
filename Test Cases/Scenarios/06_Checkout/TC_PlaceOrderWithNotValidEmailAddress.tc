@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_PlaceOrderWithNotValidEmailAddress</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>61d50e2d-d88b-44fe-a0b5-ea9d3ec37615</testCaseGuid>
+</TestCaseEntity>

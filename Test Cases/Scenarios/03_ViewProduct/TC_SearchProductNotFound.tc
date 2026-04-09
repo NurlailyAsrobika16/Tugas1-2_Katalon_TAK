@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_SearchProductNotFound</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>332559c5-e8ad-4169-b3ea-c05568de1d0e</testCaseGuid>
+</TestCaseEntity>

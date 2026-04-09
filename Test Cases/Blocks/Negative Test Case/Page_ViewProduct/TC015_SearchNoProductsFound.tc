@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC015_SearchNoProductsFound</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8b14e1a4-cc52-4005-b1c8-929f55ba75fa</testCaseGuid>
+</TestCaseEntity>

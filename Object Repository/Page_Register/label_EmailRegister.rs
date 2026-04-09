@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_EmailRegister</name>
+   <tag></tag>
+   <elementGuidId>4f1d2685-827c-4535-9a69-8974d9a1d381</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>form.register > p.woocommerce-FormRow.woocommerce-FormRow--wide.form-row.form-row-wide > label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='customer_login']/div[2]/form/p/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>6c9b6d09-7354-4127-9f16-093296cd12f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>reg_email</value>
+      <webElementGuid>010147e2-30a0-4d26-87b1-19f66de30483</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email address *</value>
+      <webElementGuid>a2edc419-5eb1-453b-b214-bfaadefbdc44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;customer_login&quot;)/div[@class=&quot;u-column2 col-2&quot;]/form[@class=&quot;register&quot;]/p[@class=&quot;woocommerce-FormRow woocommerce-FormRow--wide form-row form-row-wide&quot;]/label[1]</value>
+      <webElementGuid>ec0aea40-3743-458b-ae27-476d4dd962fb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='customer_login']/div[2]/form/p/label</value>
+      <webElementGuid>6b5e9110-3572-45be-8f48-5901e537571a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/following::label[1]</value>
+      <webElementGuid>89ab1d72-2773-4bbb-a675-c484ecd3670e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lost your password?'])[1]/following::label[1]</value>
+      <webElementGuid>74880b69-9af9-4624-bcdf-8334e824862b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Email address']/parent::*</value>
+      <webElementGuid>34828c4e-d05c-43bf-9b74-f1566f8ff251</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/form/p/label</value>
+      <webElementGuid>8966f2da-fd20-46a6-a012-d551f15e460e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Email address *' or . = 'Email address *')]</value>
+      <webElementGuid>ec371a72-2b34-4ef7-8629-523d20369e7b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC019_AddToBasketNegatifQTY</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6c0d1547-8900-4197-a8e7-b81374109c7e</testCaseGuid>
+</TestCaseEntity>

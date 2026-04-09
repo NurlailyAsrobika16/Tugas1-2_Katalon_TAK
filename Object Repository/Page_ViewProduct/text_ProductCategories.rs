@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_ProductCategories</name>
+   <tag></tag>
+   <elementGuidId>c4294ea0-5e4e-481a-bb51-47bca9798182</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#woocommerce_product_categories-2 > h4.widgettitle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='woocommerce_product_categories-2']/h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>1a83e53b-69b8-4c18-97ed-60fd221ce7fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>widgettitle</value>
+      <webElementGuid>5317c8e7-16ad-4b41-9119-3f0dc7a0bbcf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Product Categories</value>
+      <webElementGuid>bc1a7591-3b95-482f-b5a6-ac10edf33330</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;woocommerce_product_categories-2&quot;)/h4[@class=&quot;widgettitle&quot;]</value>
+      <webElementGuid>4f47edf7-00f9-40ac-a1df-1eb6f7be46cd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='woocommerce_product_categories-2']/h4</value>
+      <webElementGuid>f6e8960d-1c61-4422-898a-b4453ee4c6ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹500'])[1]/following::h4[1]</value>
+      <webElementGuid>3e203d0e-93a4-4d21-9eca-854959e8faf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹150'])[1]/following::h4[1]</value>
+      <webElementGuid>b0e06324-a931-4202-ac7b-e5ae81926d47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Android'])[1]/preceding::h4[1]</value>
+      <webElementGuid>d49cb9d9-f3df-443e-abf1-9868c62f66fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(1)'])[1]/preceding::h4[1]</value>
+      <webElementGuid>bf8dd913-33da-4e31-8c5a-8b3278218660</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Product Categories']/parent::*</value>
+      <webElementGuid>f0d9236f-8a0b-4ff1-9b8d-5a1ca7a0644a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/h4</value>
+      <webElementGuid>f852ab10-e392-4f5e-b02a-abfe5355d8ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'Product Categories' or . = 'Product Categories')]</value>
+      <webElementGuid>584cb564-9581-424a-963d-d8d36e7d87ec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

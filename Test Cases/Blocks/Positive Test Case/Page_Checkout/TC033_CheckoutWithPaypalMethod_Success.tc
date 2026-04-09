@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC033_CheckoutWithPaypalMethod_Success</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>220d3162-55a4-460d-b9db-2cabd192ed82</testCaseGuid>
+</TestCaseEntity>

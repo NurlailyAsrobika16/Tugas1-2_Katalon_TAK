@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_PlaceOrderWithEmptyBillingDetail</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dd56193e-e7a3-4ec4-b8b9-8c7aad2f95ed</testCaseGuid>
+</TestCaseEntity>

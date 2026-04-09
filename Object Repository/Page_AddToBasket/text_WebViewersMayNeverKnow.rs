@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_WebViewersMayNeverKnow</name>
+   <tag></tag>
+   <elementGuidId>a73cac0e-37d0-4f1e-aa08-3e01aad11a14</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-181']/div[2]/div[2]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(2) > p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>d2a08e91-49db-4649-9bfa-c8e0975d760d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Web viewers may never know about the background of an application, such as HTML5, CSS3, Responsive  Web Design, or PHP. What they want to know is whether your application works on their device or not and how much effort is required. Even though web development has changed over the years, the core task of creating a web page has not been changed.Software</value>
+      <webElementGuid>6845a211-d768-42d0-9fc9-f1da68c094ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-181&quot;)/div[@class=&quot;summary entry-summary&quot;]/div[2]/p[1]</value>
+      <webElementGuid>70dad0ec-d9eb-4e02-aece-6463c6af3d74</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-181']/div[2]/div[2]/p</value>
+      <webElementGuid>28e4ca5f-a8e0-4e31-8271-82cb6451f796</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹'])[1]/following::p[1]</value>
+      <webElementGuid>bb0837e8-75f4-481a-b5ba-4faf0d0566f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HTML5 Forms'])[1]/following::p[2]</value>
+      <webElementGuid>9fd5e29d-3063-489a-9147-b8830aea2d40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Web viewers may never know about the background of an application, such as HTML5, CSS3, Responsive']/parent::*</value>
+      <webElementGuid>53c570f7-38a5-447a-8446-6ac0567733a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p</value>
+      <webElementGuid>f0726a5f-ab62-4b66-bab9-f6707c2abd64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Web viewers may never know about the background of an application, such as HTML5, CSS3, Responsive  Web Design, or PHP. What they want to know is whether your application works on their device or not and how much effort is required. Even though web development has changed over the years, the core task of creating a web page has not been changed.Software' or . = 'Web viewers may never know about the background of an application, such as HTML5, CSS3, Responsive  Web Design, or PHP. What they want to know is whether your application works on their device or not and how much effort is required. Even though web development has changed over the years, the core task of creating a web page has not been changed.Software')]</value>
+      <webElementGuid>aab191c1-1aff-4901-a28d-4d96380a26ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

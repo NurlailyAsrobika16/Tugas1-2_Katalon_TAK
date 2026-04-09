@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link_Software</name>
+   <tag></tag>
+   <elementGuidId>19f404a9-e316-46dc-ab62-da6740fa1816</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-181']/div[2]/div[2]/p/div/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.google-anno-skip.google-anno-sc > span:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3325131b-c316-4f09-bfd4-61d4cbe9554b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Software</value>
+      <webElementGuid>56230ee5-c936-4cbf-a00f-c1dbf191749f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-181&quot;)/div[@class=&quot;summary entry-summary&quot;]/div[2]/p[1]/div[@class=&quot;google-anno-skip google-anno-sc&quot;]/span[2]</value>
+      <webElementGuid>6f2492cd-b035-487e-a45a-f968e3f6c48c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-181']/div[2]/div[2]/p/div/span[2]</value>
+      <webElementGuid>1882e67f-3201-4d3e-8c3f-8a35ec89a390</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Web Design'])[1]/following::span[2]</value>
+      <webElementGuid>244aa91b-6b9c-4f1b-8074-1f1acdafb833</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹'])[1]/following::span[3]</value>
+      <webElementGuid>f1d82075-bab5-49c4-83b1-0bab51660de9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to basket'])[1]/preceding::span[1]</value>
+      <webElementGuid>52cfc212-722d-4a87-91f3-cc40bda4fd6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Software']/parent::*</value>
+      <webElementGuid>f3b28874-9d0c-426a-b4dd-9e3793d9bd83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span[2]</value>
+      <webElementGuid>d46350e9-edf3-45c2-a564-52dfd91cc72c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Software' or . = 'Software')]</value>
+      <webElementGuid>6cf4b8fb-2cc7-4358-bf4b-f68a9d0580a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

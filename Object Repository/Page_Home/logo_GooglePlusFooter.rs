@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>logo_GooglePlusFooter</name>
+   <tag></tag>
+   <elementGuidId>102fd478-d91e-4c40-9a1a-618d60e2ff5e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-google-plus</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='themify-social-links-2']/ul/li[3]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>c770f67b-e5fa-46b2-a139-fcecf92c8be1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-google-plus</value>
+      <webElementGuid>f7b229fc-46b9-4422-8aa2-2ac7e64c26b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;themify-social-links-2&quot;)/ul[@class=&quot;social-links horizontal&quot;]/li[@class=&quot;social-link-item google font-icon icon-medium&quot;]/a[1]/i[@class=&quot;fa fa-google-plus&quot;]</value>
+      <webElementGuid>3b3ed029-5438-4ce2-a7fb-a9620a48fb36</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='themify-social-links-2']/ul/li[3]/a/i</value>
+      <webElementGuid>11805489-1f77-43f4-ab6d-25d01c3e3f8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/i</value>
+      <webElementGuid>860f7dd1-dd95-4d49-a367-ef2114a34983</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

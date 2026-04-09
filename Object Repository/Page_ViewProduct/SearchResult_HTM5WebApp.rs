@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SearchResult_HTM5WebApp</name>
+   <tag></tag>
+   <elementGuidId>d86d596d-1640-436b-b2b0-a0cd4fff880d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;HTML5 WebApp Develpment&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-182']/div/div/h2/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2725c2b7-7070-43b2-af83-06f0890cccff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://practice.automationtesting.in/product/html5-webapp-develpment/</value>
+      <webElementGuid>7e78fab3-935e-4683-b951-3d98bf11f6af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>HTML5 WebApp Develpment</value>
+      <webElementGuid>98c26e79-71e4-4f01-b4ed-d4617d03f50f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HTML5 WebApp Develpment</value>
+      <webElementGuid>58e08341-20ef-462f-8dea-b969effa18a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-182&quot;)/div[@class=&quot;post-content&quot;]/div[@class=&quot;post-content-inner&quot;]/h2[@class=&quot;post-title entry-title&quot;]/a[1]</value>
+      <webElementGuid>796f3cd4-2450-4da7-b770-0b49ef415065</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-182']/div/div/h2/a</value>
+      <webElementGuid>193754db-18d0-4798-b652-5a0a41cfdace</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'HTML5 WebApp Develpment')]</value>
+      <webElementGuid>a5796a91-7621-4ffe-a3a7-cb78e75386d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='html'])[1]/following::a[2]</value>
+      <webElementGuid>3dd7b71e-18f0-480a-b34e-6907f740c186</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='admin'])[1]/preceding::a[1]</value>
+      <webElementGuid>4abd4e5c-8ab4-4592-90d6-9cbee912942a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HTML5 Forms'])[1]/preceding::a[4]</value>
+      <webElementGuid>08dc51d6-fe85-4029-a2a8-47b206f57dc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='HTML5 WebApp Develpment']/parent::*</value>
+      <webElementGuid>040af4fd-a9fa-472c-9ddf-f0478c00cf20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://practice.automationtesting.in/product/html5-webapp-develpment/')])[2]</value>
+      <webElementGuid>8f871104-54ff-4ab5-85a2-3fc742438073</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2/a</value>
+      <webElementGuid>7ce8081e-8668-445b-a74c-b742c49d5ace</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://practice.automationtesting.in/product/html5-webapp-develpment/' and @title = 'HTML5 WebApp Develpment' and (text() = 'HTML5 WebApp Develpment' or . = 'HTML5 WebApp Develpment')]</value>
+      <webElementGuid>906f7332-3fc4-4d6a-9d37-0ab0912761b3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

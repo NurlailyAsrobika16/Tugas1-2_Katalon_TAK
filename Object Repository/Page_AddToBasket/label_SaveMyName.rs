@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_SaveMyName</name>
+   <tag></tag>
+   <elementGuidId>8f95be79-49f4-466c-acc6-47737580ba1a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='commentform']/p[6]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.comment-form-cookies-consent > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>7687f740-b8e8-47b7-8f75-ceeaa4330299</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>wp-comment-cookies-consent</value>
+      <webElementGuid>8d7892d1-c195-4c6a-90b6-459ddcc1a16c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Save my name, email, and website in this browser for the next time I comment.</value>
+      <webElementGuid>6110dd09-8f8d-4dd6-9493-1747f9067160</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;commentform&quot;)/p[@class=&quot;comment-form-cookies-consent&quot;]/label[1]</value>
+      <webElementGuid>bf181c82-847e-4edf-b69f-389a82056570</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='commentform']/p[6]/label</value>
+      <webElementGuid>142e62c6-e9cb-4c89-91e0-9d7e388cf266</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::label[1]</value>
+      <webElementGuid>c2f9d71d-9d3d-4213-9cbc-06eb3809f02b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ver más'])[1]/preceding::label[1]</value>
+      <webElementGuid>cc0c567d-1cc1-4367-b113-33b2c39631e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ciencias'])[1]/preceding::label[1]</value>
+      <webElementGuid>40025cac-9dcf-40f9-9c68-d8138c9c8091</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Save my name, email, and website in this browser for the next time I comment.']/parent::*</value>
+      <webElementGuid>19c493f7-a731-4910-a157-a41a548e0821</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[6]/label</value>
+      <webElementGuid>12b341f7-fbf0-4ae8-a3dd-3a381a8b0ee1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Save my name, email, and website in this browser for the next time I comment.' or . = 'Save my name, email, and website in this browser for the next time I comment.')]</value>
+      <webElementGuid>e5b4e241-18a7-4f89-a871-37ae6b80fba9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

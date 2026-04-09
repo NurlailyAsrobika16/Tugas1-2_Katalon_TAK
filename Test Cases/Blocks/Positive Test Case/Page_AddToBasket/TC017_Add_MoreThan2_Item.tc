@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC017_Add_MoreThan2_Item</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ba07b9d3-adc8-4e32-9184-cdbef597747e</testCaseGuid>
+</TestCaseEntity>

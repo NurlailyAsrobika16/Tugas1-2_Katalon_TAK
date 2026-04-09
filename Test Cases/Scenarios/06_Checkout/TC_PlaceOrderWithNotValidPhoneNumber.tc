@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_PlaceOrderWithNotValidPhoneNumber</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bf01ca3f-5abe-431e-b8a6-76118319497e</testCaseGuid>
+</TestCaseEntity>

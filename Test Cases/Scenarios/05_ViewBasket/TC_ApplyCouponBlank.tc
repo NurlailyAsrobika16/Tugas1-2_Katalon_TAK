@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_ApplyCouponBlank</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>69e5ff07-31c6-4fcf-b1fa-524400dc7285</testCaseGuid>
+</TestCaseEntity>

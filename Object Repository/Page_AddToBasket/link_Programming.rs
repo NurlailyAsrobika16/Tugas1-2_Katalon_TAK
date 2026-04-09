@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link_Programming</name>
+   <tag></tag>
+   <elementGuidId>de774c53-6476-4360-b0ae-af89417209b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-170']/div[2]/div/p/div/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.google-anno-skip.google-anno-sc > span:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>42312c86-8119-443d-bb7c-9583ec6e01d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Programming</value>
+      <webElementGuid>2d14c696-dbe6-4e6f-868e-af57e7271c8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-170&quot;)/div[@class=&quot;summary entry-summary&quot;]/div[1]/p[@class=&quot;price&quot;]/div[@class=&quot;google-anno-skip google-anno-sc&quot;]/span[2]</value>
+      <webElementGuid>7a9e5e37-3849-48cd-944d-3a0d6d31df75</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-170']/div[2]/div/p/div/span[2]</value>
+      <webElementGuid>53f3710c-1bc8-410f-935b-c99cd52fcdef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹'])[1]/following::span[2]</value>
+      <webElementGuid>bee0b574-9128-4c9e-a3a5-9f416f8841f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Functional Programming in JS'])[1]/following::span[4]</value>
+      <webElementGuid>3a743318-c502-4301-ab6f-1c7d7cd5db8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='programming'])[1]/preceding::span[1]</value>
+      <webElementGuid>9d5c6124-7a85-41a2-b3ff-18e11b994c87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to basket'])[1]/preceding::span[2]</value>
+      <webElementGuid>e84f205a-e013-4374-9e1c-332b3a487aa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Programming']/parent::*</value>
+      <webElementGuid>888dbb02-3605-4631-8dcc-6ff03328ba20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span[2]</value>
+      <webElementGuid>7b4f6713-07dc-4d7c-b142-164e93b8fca2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Programming' or . = 'Programming')]</value>
+      <webElementGuid>ec06502b-b1ae-4128-af9d-c6d53ff78886</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

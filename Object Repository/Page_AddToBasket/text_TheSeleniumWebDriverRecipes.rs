@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_TheSeleniumWebDriverRecipes</name>
+   <tag></tag>
+   <elementGuidId>f4e9a71c-61e9-41c1-8bf2-89094f2f2fea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-160']/div[2]/div[2]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(2) > p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>1e420173-1048-4d82-8f11-98b6aa04317a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The Selenium WebDriver Recipes book is a quick problem-solving guide to automated testing web applications with Selenium WebDriver.</value>
+      <webElementGuid>c0df2afd-efff-4a7a-a493-2d51070e8715</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-160&quot;)/div[@class=&quot;summary entry-summary&quot;]/div[2]/p[1]</value>
+      <webElementGuid>c21db0ab-8127-4a21-95c6-a3f91cc267cd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-160']/div[2]/div[2]/p</value>
+      <webElementGuid>0047659c-2d46-42dc-8143-f580e1f28980</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹'])[1]/following::p[1]</value>
+      <webElementGuid>6c85a9f6-b1fc-4aab-b816-07b85258bb7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selenium Ruby'])[1]/following::p[2]</value>
+      <webElementGuid>1c6d8da8-fe60-48eb-b192-3b4d54e6b5bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to basket'])[1]/preceding::p[1]</value>
+      <webElementGuid>2b6bb5b2-b6eb-455a-a907-e24cc4361064</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The Selenium WebDriver Recipes book is a quick problem-solving guide to automated testing web applications with Selenium WebDriver.']/parent::*</value>
+      <webElementGuid>24c7b507-9c86-4fae-ba63-b6b5d6f04cce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p</value>
+      <webElementGuid>b4dfe982-92b9-4819-8f69-226e0886cc2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'The Selenium WebDriver Recipes book is a quick problem-solving guide to automated testing web applications with Selenium WebDriver.' or . = 'The Selenium WebDriver Recipes book is a quick problem-solving guide to automated testing web applications with Selenium WebDriver.')]</value>
+      <webElementGuid>62b4b237-3a3a-42fa-b0b3-15e0651cc567</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

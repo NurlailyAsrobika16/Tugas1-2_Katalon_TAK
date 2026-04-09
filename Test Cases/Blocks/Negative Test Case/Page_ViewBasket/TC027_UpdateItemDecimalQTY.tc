@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC027_UpdateItemDecimalQTY</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d3a6cb33-f1fa-4159-8229-2839b5af93ca</testCaseGuid>
+</TestCaseEntity>

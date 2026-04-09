@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC013_ProductCategoriesNotFound</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>11700b80-ae29-4a6b-adc9-1f5fa6d29d08</testCaseGuid>
+</TestCaseEntity>

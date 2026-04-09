@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC009_ProductExist</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c01cfbd8-d678-47c8-aacc-5eeaaa69a9c2</testCaseGuid>
+</TestCaseEntity>

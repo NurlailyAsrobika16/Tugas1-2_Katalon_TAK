@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC021_AddToBaskeDecimalQTY</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1745bd1a-e54f-47af-8c22-041c7f02a44f</testCaseGuid>
+</TestCaseEntity>

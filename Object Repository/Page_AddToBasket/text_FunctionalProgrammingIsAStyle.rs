@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_FunctionalProgrammingIsAStyle</name>
+   <tag></tag>
+   <elementGuidId>93bc43d6-fe10-4eeb-8155-4d1ffe029534</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-170']/div[2]/div[2]/div/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.column > p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>13a6fda7-8683-40a5-805f-e96d604145f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Functional  programming is a style that emphasizes and enables the writing of smarter code, which minimizes complexity and increases modularity. It’s a way of writing cleaner code through clever ways of mutating, combining, and using functions.Programming</value>
+      <webElementGuid>4f4484a6-3673-478d-8f2c-6e021d0c711e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-170&quot;)/div[@class=&quot;summary entry-summary&quot;]/div[2]/div[@class=&quot;page&quot;]/div[@class=&quot;layoutArea&quot;]/div[@class=&quot;column&quot;]/p[1]</value>
+      <webElementGuid>4e50d890-12b9-4ec0-961c-13c1483cafc9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-170']/div[2]/div[2]/div/div/div/p</value>
+      <webElementGuid>da31b3d4-1067-41f2-a379-d35d5da5823e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹'])[1]/following::p[1]</value>
+      <webElementGuid>0add8a1f-b2d2-4664-9f53-c65daef6e422</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Functional Programming in JS'])[1]/following::p[2]</value>
+      <webElementGuid>712ceb87-01ae-49a4-8e8f-889738fe42f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Functional']/parent::*</value>
+      <webElementGuid>c4b96674-f9a4-4299-b9a9-ef492bda400e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/p</value>
+      <webElementGuid>18268f60-119c-4f4e-a167-d3e47edec4b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Functional  programming is a style that emphasizes and enables the writing of smarter code, which minimizes complexity and increases modularity. It’s a way of writing cleaner code through clever ways of mutating, combining, and using functions.Programming' or . = 'Functional  programming is a style that emphasizes and enables the writing of smarter code, which minimizes complexity and increases modularity. It’s a way of writing cleaner code through clever ways of mutating, combining, and using functions.Programming')]</value>
+      <webElementGuid>41fdf754-3f6c-4106-8763-4c9cb1b53a5c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

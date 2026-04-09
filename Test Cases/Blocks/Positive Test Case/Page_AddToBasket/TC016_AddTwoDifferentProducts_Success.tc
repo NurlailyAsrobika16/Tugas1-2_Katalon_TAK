@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC016_AddTwoDifferentProducts_Success</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>da70f0ee-ae3e-484f-ba96-93d2ca5bc677</testCaseGuid>
+</TestCaseEntity>

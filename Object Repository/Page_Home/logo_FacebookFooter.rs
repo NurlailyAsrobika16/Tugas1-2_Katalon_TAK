@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>logo_FacebookFooter</name>
+   <tag></tag>
+   <elementGuidId>c6b65bff-99c7-4d14-bae9-5bb221af2d06</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-facebook</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='themify-social-links-2']/ul/li[2]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>39d7f61f-92e1-4f93-89fd-c64cd8b400a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-facebook</value>
+      <webElementGuid>511b2b6e-467a-4a22-a5d0-f941c5e7afcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;themify-social-links-2&quot;)/ul[@class=&quot;social-links horizontal&quot;]/li[@class=&quot;social-link-item facebook font-icon icon-medium&quot;]/a[1]/i[@class=&quot;fa fa-facebook&quot;]</value>
+      <webElementGuid>4a061c19-d33c-47a0-8bc5-887b597e5991</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='themify-social-links-2']/ul/li[2]/a/i</value>
+      <webElementGuid>b09d5ba3-6576-49b8-8e04-7434caf7d5e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/i</value>
+      <webElementGuid>2b2a454e-44dd-4e0a-8484-d5b17d366afc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

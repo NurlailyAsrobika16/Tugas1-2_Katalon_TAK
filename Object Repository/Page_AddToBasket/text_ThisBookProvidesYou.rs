@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_ThisBookProvidesYou</name>
+   <tag></tag>
+   <elementGuidId>7cfa6178-269a-4569-b804-3399b6bd12f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-163']/div[2]/div[2]/div/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.column > p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>f47fc78a-5166-452d-a4ee-0b41315af55a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>This book provides you with an intermediate knowledge of HTML. Instead of wandering through loads of theory, we will understand HTML practically so that we can understand the markup of a web page. We have used Notepad for the examples in this book.Word Processing Software</value>
+      <webElementGuid>d1ab70c6-cc1c-4d08-94e6-9e5f9cfa03ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-163&quot;)/div[@class=&quot;summary entry-summary&quot;]/div[2]/div[@class=&quot;page&quot;]/div[@class=&quot;layoutArea&quot;]/div[@class=&quot;column&quot;]/p[1]</value>
+      <webElementGuid>07f58048-7575-46df-b85f-332e3c873050</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-163']/div[2]/div[2]/div/div/div/p</value>
+      <webElementGuid>dd664408-a86b-4db5-a6fa-805b0263aa44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹'])[2]/following::p[1]</value>
+      <webElementGuid>d83b31f7-7747-4b82-ba37-5366fb5e3a58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹'])[1]/following::p[1]</value>
+      <webElementGuid>0e8f6983-6d5c-466a-ae77-a1cf1bf35cb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to basket'])[1]/preceding::p[1]</value>
+      <webElementGuid>7c3e8c3d-7771-40f3-97c5-669b8da7c0d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='This book provides you with an intermediate knowledge of HTML. Instead of wandering through loads of theory, we will understand HTML practically so that we can understand the markup of a web page. We have used Notepad for the examples in this book.']/parent::*</value>
+      <webElementGuid>c737d680-116c-4c40-8dc1-d53609cae0b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/p</value>
+      <webElementGuid>58fa030a-0e21-42c2-989a-19a8f00b61cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'This book provides you with an intermediate knowledge of HTML. Instead of wandering through loads of theory, we will understand HTML practically so that we can understand the markup of a web page. We have used Notepad for the examples in this book.Word Processing Software' or . = 'This book provides you with an intermediate knowledge of HTML. Instead of wandering through loads of theory, we will understand HTML practically so that we can understand the markup of a web page. We have used Notepad for the examples in this book.Word Processing Software')]</value>
+      <webElementGuid>8d95aae1-2e60-4a73-8fff-0b280b9e1ccd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

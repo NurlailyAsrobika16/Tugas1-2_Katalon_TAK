@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CheckoutWithCheckPaymentMethod_Success</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9b1d507b-b6d8-4c20-9ab8-25ec6081806b</testCaseGuid>
+</TestCaseEntity>

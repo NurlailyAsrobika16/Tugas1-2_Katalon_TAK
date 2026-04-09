@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_AdditionalInformation</name>
+   <tag></tag>
+   <elementGuidId>0631cce1-a1cc-464f-b4cf-1b2377349cde</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='customer_details']/div[2]/div/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.woocommerce-shipping-fields > h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>74972b9e-7cd1-4477-8092-6451827ff24f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Additional Information</value>
+      <webElementGuid>29eb622a-5f6c-48d5-b37f-e13a45788c41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;customer_details&quot;)/div[@class=&quot;col-2&quot;]/div[@class=&quot;woocommerce-shipping-fields&quot;]/h3[1]</value>
+      <webElementGuid>40421d57-4bba-465e-80ed-4be43d294ef1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='customer_details']/div[2]/div/h3</value>
+      <webElementGuid>e4bca955-3024-466b-8eae-7c48e35962ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[14]/following::h3[1]</value>
+      <webElementGuid>c4572d59-5bc8-4f47-b47b-a5d7b849682d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Notes'])[1]/preceding::h3[1]</value>
+      <webElementGuid>ec78cd63-8a01-4965-b23a-96805123a836</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your order'])[1]/preceding::h3[1]</value>
+      <webElementGuid>9b32090a-249a-45f9-934d-e6cdcfcd12f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Additional Information']/parent::*</value>
+      <webElementGuid>9a584e5b-9b51-44d7-a533-5ab2611a0feb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/h3</value>
+      <webElementGuid>58fc0368-c8fe-454f-83f6-6e837a039d31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Additional Information' or . = 'Additional Information')]</value>
+      <webElementGuid>ea159a8a-a84b-465d-9319-079c553e67ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

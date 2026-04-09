@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC029_ApplyCouponNotValid</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>922f3338-c985-452c-adf8-7616f176aeb9</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC024_UndoRemoveItem_Success</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4824bbff-f4a8-4cca-9d71-f22d15a89c72</testCaseGuid>
+</TestCaseEntity>

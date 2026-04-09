@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>header_Subtotal</name>
+   <tag></tag>
+   <elementGuidId>6969d185-1f6f-4550-9b19-74aa7a1d31a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='order_review']/table/tfoot/tr/th</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr.cart-subtotal > th</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>b76dab2a-65e8-4761-9c68-286dd026c3a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Subtotal</value>
+      <webElementGuid>a259078c-177a-488b-86d8-ba8078d0fc41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;order_review&quot;)/table[@class=&quot;shop_table woocommerce-checkout-review-order-table&quot;]/tfoot[1]/tr[@class=&quot;cart-subtotal&quot;]/th[1]</value>
+      <webElementGuid>513b003f-20a3-4cda-8048-5aeb6dd471bb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='order_review']/table/tfoot/tr/th</value>
+      <webElementGuid>7cff0f3f-1c3d-467a-b5ef-b51c791cfb33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹'])[1]/following::th[1]</value>
+      <webElementGuid>d4111dc9-1478-48a5-b2a8-d37ebdfc8d94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='× 1'])[1]/following::th[1]</value>
+      <webElementGuid>9ff15843-0fc1-4e47-8f4b-76b2abf9a77d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹'])[2]/preceding::th[1]</value>
+      <webElementGuid>7b1ecd3e-091e-47ee-88db-216d093869b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Roaming Tax'])[1]/preceding::th[1]</value>
+      <webElementGuid>6b955f69-94c9-4ed2-b4de-092e51b5727a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Subtotal']/parent::*</value>
+      <webElementGuid>c87cb73c-2621-4457-bba7-fa86ecdb6335</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tfoot/tr/th</value>
+      <webElementGuid>fced21cb-0d89-4dad-83ec-7e33b9634b63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'Subtotal' or . = 'Subtotal')]</value>
+      <webElementGuid>1e8b107c-0528-4a89-b606-f527aa6f9e2d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
