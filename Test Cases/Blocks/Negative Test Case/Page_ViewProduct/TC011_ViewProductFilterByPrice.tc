@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC011_ViewProductFilterByPrice</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>15afd617-78d7-4aa3-9587-3ce715ac6bb2</testCaseGuid>
-</TestCaseEntity>
